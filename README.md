@@ -2,7 +2,7 @@
 - 👀 I’m interested in Asset Management, Artificial Intelligence (AI) and Machine Learning (ML)
 - 🌱 I’m currently learning AI and ML.
 - 💞️ I’m looking to collaborate on ALGO Trading.
-- 📫 How to reach me: lamfong@gmail.com
+- 📫 How to reach me: lamfong@gmail.com / https://www.linkedin.com/in/fong-lam-76527716/
 
 <!---
 flam38/flam38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
